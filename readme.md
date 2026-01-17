@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Dhanusiya K** - *Initial work* - [YourGitHub](https://github.com/dhanusiya-2609/skill-based-job-recommendation/)
+- **Dhanusiya K** - *Initial work* - [GitHub](https://github.com/dhanusiya-2609/skill-based-job-recommendation/)
 
 ## 🙏 Acknowledgments
 
