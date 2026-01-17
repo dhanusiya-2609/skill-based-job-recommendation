@@ -283,7 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues and questions:
 - Create an issue on GitHub
-- Email: support@yourproject.com
 - Documentation: [docs/](docs/)
 
 ## 🗺️ Roadmap
